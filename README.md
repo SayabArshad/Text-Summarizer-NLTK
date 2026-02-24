@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python) ![NLTK](https://img.shields.io/badge/NLTK-Natural%20Language%20Toolkit-green?logo=python) ![License](https://img.shields.io/badge/License-MIT-yellow) ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2593/2593508.png" alt="Text Summarizer Logo" width="140"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/16493/16493733.png" alt="Text Summarizer Logo" width="140"/>
 </p>
 
 🚀 This project implements a simple **extractive text summarizer** using the Natural Language Toolkit (NLTK). It analyzes a given text, tokenizes sentences, removes stopwords, calculates word frequencies, and scores each sentence based on the frequency of its words. The top-scoring sentences are then combined to form a concise summary. Perfect for learning NLP fundamentals and automatic summarization techniques.
